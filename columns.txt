@@ -1,0 +1,38 @@
+number of unique values in online_order is 2:
+-------------------------------
+['Yes' 'No']
+number of unique values in book_table is 2:
+-------------------------------
+['Yes' 'No']
+number of unique values in votes is 2326:
+-------------------------------
+[ 775  787  918 ... 4957 2382  843]
+number of unique values in cuisines is 7:
+-------------------------------
+['Indian' 'Italian' 'Desserts' 'other' 'Chinese' 'fastfood' 'Thai']
+number of unique values in type is 7:
+-------------------------------
+['Buffet' 'Cafes' 'Delivery' 'Desserts' 'Bars' 'Drinks & nightlife'
+ 'Dine_out']
+number of unique values in review is 5:
+-------------------------------
+[4 3 5 1 2]
+number of unique values in rate is 2:
+-------------------------------
+[1 0]
+number of unique values in num_of_serving_area is 2:
+-------------------------------
+[1 2]
+number of unique values in correct_address is 2:
+-------------------------------
+['correct' 'false']
+number of unique values in approx_cost_for_one is 69:
+-------------------------------
+[ 400  150  300  350  275  250  225  325  200  450  100  375   75  425
+   50  600  175  125  475  500  750  650   40  550   80  800  115   65
+   25   95  850  700   90  675 1100 1000  900  950  165 1250 1050 1500
+ 1400 1700   20  625 1750 2000 1200 1300   60  725  234   35 1600   30
+  280  120  180 3000  525 1150 2050 2500 1850  825 1350 2250   70]
+
+  columns=[['online_order', 'book_table', 'votes', 'cuisines', 'type', 'review',
+       'num_of_serving_area', 'correct_address', 'approx_cost_for_one']]
