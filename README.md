@@ -1,5 +1,6 @@
 # Zomato Rating Prediction App
 This project uses machine learning, Python, and Streamlit to create a web application that predicts the rating of a restaurant on Zomato.
+
 ![](https://github.com/Ag994/zomato-streamlit-Rating--Predtiction/blob/main/Streamlit%20-%20Google%20Chrome%202023-01-05%2005-14-23.gif)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ag994-zomato-streamlit-app-wu7cyk.streamlit.app/)
